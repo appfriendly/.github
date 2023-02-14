@@ -4,3 +4,5 @@
 
 Our Website: `in dev`\
 Our App: `in dev`
+
+![девиз](	https://img001.prntscr.com/file/img001/DQQqPyLUSEqDX2UFhDyVPg.png)
