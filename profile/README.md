@@ -1,4 +1,4 @@
-# 🌎 Friendly App for you, and your friends!
+# 🌎 Friendly App for you, and your friends! <3
 
 ### Смотри где твои друзья в реальном времени
 
