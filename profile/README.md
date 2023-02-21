@@ -5,4 +5,6 @@
 Our Website: `in dev`\
 Our App: `in dev`
 
+![](https://discord.com/assets/a188414ce83f2454b9d71a47c3d95909.svg)
+
 
